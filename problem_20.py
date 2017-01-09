@@ -3,6 +3,8 @@ Creates distributions D0,D1 where you can sampe (D0^2 + D1^2) easily but neither
 D0 nor D1.
 
 https://itaibn.wordpress.com/2013/09/29/a-solution-to-problem-20-in-scott-aaronsons-projects-aplenty/
+
+NOTE: This solution was later found to be invalid, see blog post for details.
 """
 
 from sage.all import *
